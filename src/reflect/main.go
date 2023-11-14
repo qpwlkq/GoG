@@ -14,4 +14,6 @@ func main() {
 	value, _ := allType.(string)
 	fmt.Println(value)
 
+	value := 
+
 }
